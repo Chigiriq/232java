@@ -1,0 +1,17 @@
+5,  furry
+3,  bipedal
+11,  aquatic
+1,  reclusive
+4,  a dog
+9,  legged
+15,  legs
+0,  a bigfoot
+2,  a human
+7,  Shelled
+10,  a fish
+13,  slimy
+16,  a snake
+6,  Turtle
+8,  a salamander
+12,  a Slug
+14,  a Lizzard
